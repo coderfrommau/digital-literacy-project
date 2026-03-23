@@ -9,11 +9,11 @@ This project is based on digital literacy where I have completed 5 tasks includi
 
 ## Task Links
 
-- Task 1: Infographic
-- Task 2: Digital Portfolio
-- Task 3: Platforms
-- Task 4: Email Etiquette
-- Task 5: Cybercrime
+- Task 1: [Infographic](./task-1-presentation/)
+- Task 2: [Digital Portfolio](./task-2-portfolio/)
+- Task 3: [Platforms](./task-3-platforms/)
+- Task 4: [Email Etiquette](./task-4-email-etiquette/)
+- Task 5: [Cybercrime](./task-5-cybercrime/)
 
 ## Google Form Link
 https://docs.google.com/forms/d/e/1FAIpQLScmixXQEkDJ_ch2ZJNCoAPs9l-UiNW2kru9KqacIfYN1T0gLw/viewform?usp=header
