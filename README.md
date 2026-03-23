@@ -1,19 +1,43 @@
-# digital-literacy-project
+# Digital Literacy Awareness for Students
 
+## Student Details
 Name: Shivam Singh  
-Reg No: 25BCE10736
-Branch: B.Tech – Computer Science And Engineering (BCE)
+Registration Number: 25BCE10736  
+Course: B.Tech CSE  
+University: VIT Bhopal University  
+
+-----------
 
 ## Project Overview
-This project is based on digital literacy where I have completed 5 tasks including infographic, portfolio, platforms, email etiquette and cybercrime awareness.
+This project focuses on digital literacy awareness for students. It covers topics like safe internet practices, digital tools, professional communication, and cybercrime awareness.
 
-## Task Links
+-----------
 
-- Task 1: [Infographic](./task-1-presentation/)
-- Task 2: [Digital Portfolio](./task-2-portfolio/)
-- Task 3: [Platforms](./task-3-platforms/)
-- Task 4: [Email Etiquette](./task-4-email-etiquette/)
-- Task 5: [Cybercrime](./task-5-cybercrime/)
+## Task 1: Infographic
+[View Infographic](task-1-presentation/infographic.png)
 
-## Google Form Link
-https://docs.google.com/forms/d/e/1FAIpQLScmixXQEkDJ_ch2ZJNCoAPs9l-UiNW2kru9KqacIfYN1T0gLw/viewform?usp=header
+------------
+
+## Task 2: Digital Portfolio
+- [GitHub Profile](task-2-portfolio/github-profile.png)
+- [LinkedIn Profile](task-2-portfolio/linkedin-profile.png)
+- [Kaggle Profile](task-2-portfolio/kaggle-profile.png)
+
+-------------
+
+## Task 3: Platforms
+- [HackerRank Screenshot](task-3-platforms/hackerrank.png)
+- [Google Form](task-3-platforms/google-form.png)
+- [Responses](task-3-platforms/responses-sheet.png)
+
+-------------
+
+## Task 4: Email Etiquette
+- [Emails](task-4-email-etiquette/emails.txt)
+- [Social Media Checklist](task-4-email-etiquette/social-media-checklist.md)
+
+-------------
+
+## Task 5: Cybercrime Awareness
+- [Case Study](task-5-cybercrime/case-study.md)
+- [Prevention Checklist](task-5-cybercrime/prevention-checklist.md)
